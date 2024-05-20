@@ -13,5 +13,6 @@
 
 # Preview
 
-Live Link
+[Live Link](https://cjvnz.github.io/todo/)
+
 ![alt text](https://raw.githubusercontent.com/cjvnz/git_test/main/03-Todo/todo_light.png "App Preview - Light Mode")
